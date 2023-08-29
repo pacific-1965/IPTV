@@ -43,5 +43,97 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="WAPADT2.pr" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Sports",WAPA-DT2 (WAPA Deportes) (1080p)
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="爱奇艺" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Movies",电影大片
-http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_dianyingjingxuan_720p_t5/c19_lb_dianyingjingxuan_720p_t5.m3u8
+#EXTINF:-1 tvg-id="邵氏电影HD" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Movies",邵氏电影HD2
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1 tvg-id="蓝光影视1台" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Movies",蓝光影视1台
+http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-id="动漫电影频道" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Movies",动漫电影频道
+http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影FHD" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Movies",黑莓电影FHD
+http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 tvg-id="东方影视FHD" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Movies",东方影视FHD
+http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="亞洲影院" tvg-logo="" group-title="Movies",亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="BEST电影" tvg-logo="" group-title="Movies",BEST电影
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="BEST LIVE" tvg-logo="" group-title="Movies",BEST LIVE
+http://112.17.40.145/PLTV/88888888/224/3221226685/index.m3u8
+#EXTINF:-1 tvg-id="影视" tvg-logo="" group-title="Movies",影视
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 tvg-id="最美影院" tvg-logo="" group-title="Movies",最美影院
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:-1 tvg-id="kk经典电影" tvg-logo="" group-title="Movies",kk经典电影
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-id="kk经典" tvg-logo="" group-title="Movies",kk经典
+http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
+#EXTINF:-1 tvg-id="kk金马影院" tvg-logo="" group-title="Movies",kk金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="海爷_国产剧场" tvg-logo="" group-title="Movies",海爷_国产剧场
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
+#EXTINF:-1 tvg-id="海爷_国外大片" tvg-logo="" group-title="Movies",海爷_国外大片
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
+#EXTINF:-1 tvg-id="海爷_科幻频道" tvg-logo="" group-title="Movies",海爷_科幻频道
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/243318/live_261831479_8429255.m3u8
+#EXTINF:-1 tvg-id="NewTV 精品体育" tvg-logo="" group-title="Movies",NewTV 精品体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-id="NewTV 超级电视剧" tvg-logo="" group-title="Movies",NewTV 超级电视剧
+http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="NewTV 超级电视剧4M" tvg-logo="" group-title="Movies",NewTV 超级电视剧4M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-id="NewTV 超级电影-02" tvg-logo="" group-title="Movies",NewTV 超级电影-02
+http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1 tvg-id="NewTV 超级电影-01" tvg-logo="" group-title="Movies",NewTV 超级电影-01
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="周口影视" tvg-logo="" group-title="Movies",周口影视
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+#EXTINF:-1 tvg-id="粤语影片" tvg-logo="" group-title="Movies",粤语影片
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
+#EXTINF:-1 tvg-id="开心影院" tvg-logo="" group-title="Movies",开心影院
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-logo="" group-title="Movies",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="NHK华语视界" tvg-logo="" group-title="Movies",NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="" group-title="Movies",黑莓动画
+http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="" group-title="Movies",黑莓电影
+http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+#EXTINF:-1 tvg-id="kodi电影" tvg-logo="" group-title="Movies",kodi电影
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="周星驰" tvg-logo="" group-title="Movies",周星驰
+http://121.12.115.15/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1_2000.m3u8
+#EXTINF:-1 tvg-id="科幻电影" tvg-logo="" group-title="Movies",科幻电影
+http://121.12.115.15/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1_2000.m3u8
+#EXTINF:-1 tvg-id="警匪电影" tvg-logo="" group-title="Movies",警匪电影
+http://121.12.115.15/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus_2000.m3u8
+#EXTINF:-1 tvg-id="漫威电影" tvg-logo="" group-title="Movies",漫威电影
+http://121.12.115.15/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1_2000.m3u8
+#EXTINF:-1 tvg-id="动作影院" tvg-logo="" group-title="Movies",动作影院
+http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
+#EXTINF:-1 tvg-id="喜剧影院" tvg-logo="" group-title="Movies",喜剧影院
+http://39.134.39.39/270000001322/69900158041111100000002189/index.m3u8
+#EXTINF:-1 tvg-id="家庭影院" tvg-logo="" group-title="Movies",家庭影院
+http://39.134.39.39/270000001322/69900158041111100000002187/index.m3u8
+#EXTINF:-1 tvg-id="武侠剧场" tvg-logo="" group-title="Movies",武侠剧场
+http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
+#EXTINF:-1 tvg-id="TVB星级剧集台" tvg-logo="" group-title="Movies",TVB星级剧集台
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
+#EXTINF:-1 tvg-id="齐神话" tvg-logo="" group-title="Movies",齐神话
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_756209034_0.m3u8
+#EXTINF:-1 tvg-id="齐乡村" tvg-logo="" group-title="Movies",齐乡村
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_2477966232_0.m3u8
+#EXTINF:-1 tvg-id="齐古装" tvg-logo="" group-title="Movies",齐古装
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_443529243_0.m3u8
+#EXTINF:-1 tvg-id="怀旧经典" tvg-logo="" group-title="Movies",怀旧经典
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_1628726667_0.m3u8
+#EXTINF:-1 tvg-id="星光经典台" tvg-logo="" group-title="Movies",星光经典台
+http://hls.haokan.bdstatic.com/haokan/stream_bduid_956537075_0.m3u8
+#EXTINF:-1 tvg-id="达叔经典电影" tvg-logo="" group-title="Movies",达叔经典电影
+http://121.12.115.15/txdirect.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1_2000.m3u8
+#EXTINF:-1 tvg-id="香港女神系列" tvg-logo="" group-title="Movies",香港女神系列
+http://121.12.115.15/txdirect.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1_2000.m3u8
+#EXTINF:-1 tvg-id="华侨电影" tvg-logo="" group-title="Movies",华侨电影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/805359/live_362963326
+
+
