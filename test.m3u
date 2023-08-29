@@ -1,70 +1,26 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",RealMadrid TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports",Pluto TV Sports (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bb941b95267e225e59c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&terminate=false&userId=
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/oLmgGDG.png" group-title="Sports",EDGEsport (1080p)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",fubo Sports Network (720p)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p)
-https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="News",EL PAÍS TV (1080p)
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 1 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",A Spor (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACC Network (720p)
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (360p) [Not 24/7]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
-#EXTINF:-1 tvg-id="ArenaSport3BosniaandHerzegovina.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports",Arena Sport 3 BA (1080p)
-http://94.250.2.6:7374/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Sports",KSA Sports 1 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports 1 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-#EXTINF:-1 tvg-id="WAPADT2.pr" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Sports",WAPA-DT2 (WAPA Deportes) (1080p)
-https://live.field59.com/wapa/wapa2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-logo="" group-title="Movies",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="" group-title="Movies",CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="" group-title="Movies",CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="kk经典电影" tvg-logo="" group-title="Movies",kk经典电影
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 tvg-id="精彩电影" tvg-logo="" group-title="Movies",精彩电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="-kk影视频道" tvg-logo="" group-title="Movies",-kk影视频道
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 tvg-id="吉林影视" tvg-logo="" group-title="Movies",吉林影视
-http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 tvg-id="上虞文化影视" tvg-logo="" group-title="Movies",上虞文化影视
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-id="济南影视" tvg-logo="" group-title="Movies",济南影视
-http://livejntv.chinamcache.com/live/jntv04.m3u8
-#EXTINF:-1 tvg-id="绍兴文化影视" tvg-logo="" group-title="Movies",绍兴文化影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-id="华数动作电影 HD" tvg-logo="" group-title="Movies",华数动作电影 HD
-http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_big.jpg" group-title="轮播电影", 港台/科幻 /喜剧/动作
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5e22bcc70ad14f03b05e3593b0416a8f_big.jpg" group-title="轮播电影", 华语/经典/ 沈腾/周杰伦
+https://www.goodiptv.club/douyu/85894
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg" group-title="轮播电影", 狄仁杰
+https://www.goodiptv.club/huya/11342425
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="轮播电影", 纪晓岚
+https://www.goodiptv.club/huya/11342396
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1025/dd/96bd545ccf532b120ad54b1c12ea1f_180_135.jpg?1494320127" group-title="轮播电影", 
+金庸
+https://www.goodiptv.club/huya/11602082
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="轮播电影", 周星驰
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg" group-title="轮播电影", 周润发
+https://www.goodiptv.club/huya/11342387
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="轮播电影", 成龙
+https://www.goodiptv.club/huya/11342386
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/4887f1dde8c3ad35c367c2d46b76754a_big.jpg" group-title="轮播电影", 经典港剧天地
+https://www.goodiptv.club/douyu/5522351
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202305/e66b1d5dde45488f85ef4183b71a1ad5_big.jpg" group-title="轮播电影", 科幻/灾难 /喜剧/动作
+https://www.goodiptv.club/douyu/323876
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/7fd6121143ca410cbb4305711b219b74_big.jpg" group-title="轮播电影", 欧美/科幻/经典
+https://www.goodiptv.club/douyu/20415
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_big.jpg" group-title="轮播电影", 港台/科幻 /喜剧/动作
+https://www.goodiptv.club/douyu/434971
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_big.jpg" group-title="轮播电影", 欧美/日韩 /国产
+https://www.goodiptv.club/douyu/36337
