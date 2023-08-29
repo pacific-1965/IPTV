@@ -230,3 +230,28 @@ https://cntv.sbs/tv?auth=230813&id=mlzq
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
 https://cntv.sbs/tv?auth=230813&id=shjy
 
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5e22bcc70ad14f03b05e3593b0416a8f_big.jpg" group-title="轮播电影", 华语/经典/沈腾/周杰伦
+https://www.goodiptv.club/douyu/85894
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg" group-title="轮播电影", 狄仁杰
+https://www.goodiptv.club/huya/11342425
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="轮播电影", 纪晓岚
+https://www.goodiptv.club/huya/11342396
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1025/dd/96bd545ccf532b120ad54b1c12ea1f_180_135.jpg?1494320127" group-title="轮播电影", 金庸
+https://www.goodiptv.club/huya/11602082
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="轮播电影", 周星驰
+https://www.goodiptv.club/huya/11342412
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg" group-title="轮播电影", 周润发
+https://www.goodiptv.club/huya/11342387
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="轮播电影", 成龙
+https://www.goodiptv.club/huya/11342386
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/4887f1dde8c3ad35c367c2d46b76754a_big.jpg" group-title="轮播电影", 经典港剧天地
+https://www.goodiptv.club/douyu/5522351
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202305/e66b1d5dde45488f85ef4183b71a1ad5_big.jpg" group-title="轮播电影", 科幻/灾难/喜剧/动作
+https://www.goodiptv.club/douyu/323876
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/7fd6121143ca410cbb4305711b219b74_big.jpg" group-title="轮播电影", 欧美/科幻/经典
+https://www.goodiptv.club/douyu/20415
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_big.jpg" group-title="轮播电影", 港台/科幻/喜剧/动作
+https://www.goodiptv.club/douyu/434971
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_big.jpg" group-title="轮播电影", 欧美/日韩/国产
+https://www.goodiptv.club/douyu/36337
+
