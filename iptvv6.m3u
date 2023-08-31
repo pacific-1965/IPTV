@@ -196,39 +196,37 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
-https://cntv.sbs/tv?auth=230813&id=wxty
+https://cntv.sbs/tv?auth=230830&id=wxty
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海",东方财经
-https://cntv.sbs/tv?auth=230813&id=dfcj
+https://cntv.sbs/tv?auth=230830&id=dfcj
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
-https://cntv.sbs/tv?auth=230813&id=dycj
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海",法治天地
-https://cntv.sbs/tv?auth=230813&id=fztd
+https://cntv.sbs/tv?auth=230830&id=dycj
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海",欢笑剧场
-https://cntv.sbs/tv?auth=230813&id=hxjc
+https://cntv.sbs/tv?auth=230830&id=hxjc
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="上海",都市剧场
-https://cntv.sbs/tv?auth=230813&id=dsjc
+https://cntv.sbs/tv?auth=230830&id=dsjc
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻综合
-https://cntv.sbs/tv?auth=230813&id=shxwzh
+https://cntv.sbs/tv?auth=230830&id=shxwzh
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海",上海都市
-https://cntv.sbs/tv?auth=230813&id=shds
+https://cntv.sbs/tv?auth=230830&id=shds
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海",上海ICS外语
-https://cntv.sbs/tv?auth=230813&id=shics
+https://cntv.sbs/tv?auth=230830&id=shics
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
-https://cntv.sbs/tv?auth=230813&id=shjsrw
+https://cntv.sbs/tv?auth=230830&id=shjsrw
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/SITV七彩戏剧.png" group-title="上海",七彩戏剧
-https://cntv.sbs/tv?auth=230813&id=qcxj
+https://cntv.sbs/tv?auth=230830&id=qcxj
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png" group-title="上海",劲爆体育
-https://cntv.sbs/tv?auth=230813&id=jbty
+https://cntv.sbs/tv?auth=230830&id=jbty
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海",新视觉
-https://cntv.sbs/tv?auth=230813&id=xsj
+https://cntv.sbs/tv?auth=230830&id=xsj
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海",游戏风云
+https://cntv.sbs/tv?auth=230830&id=yxfy
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
-https://cntv.sbs/tv?auth=230813&id=shss
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SITV金色学堂.png" group-title="上海",金色学堂
-https://cntv.sbs/tv?auth=230813&id=jspd
+https://cntv.sbs/tv?auth=230830&id=shss
+#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海",乐游
+https://cntv.sbs/tv?auth=230830&id=qjs
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="上海",魅力足球
-https://cntv.sbs/tv?auth=230813&id=mlzq
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
-https://cntv.sbs/tv?auth=230813&id=shjy
+https://cntv.sbs/tv?auth=230830&id=mlzq
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5e22bcc70ad14f03b05e3593b0416a8f_big.jpg" group-title="轮播电影", 华语/经典/沈腾/周杰伦
 https://www.goodiptv.club/douyu/85894
